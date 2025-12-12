@@ -16,7 +16,7 @@ La licenza viene fornita da:
 - un **docente**
 - una **scuola di volo**
 - oppure dal **referente** che ti ha distribuito l’estensione
-
+(mvarischio@icloud.com)
 La licenza può avere:
 - una **data di scadenza**
 - un **numero massimo di dispositivi**
