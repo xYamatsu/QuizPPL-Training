@@ -1,6 +1,6 @@
-Privacy Policy – QuizPPL Training
+Privacy Policy –  PPL Exam Trainer
 
-QuizPPL Training does not collect, sell, or share personal user data.
+PPL Exam Trainerg does not collect, sell, or share personal user data.
 
 The extension processes QuizPPL quiz questions only when explicitly requested by the user in order to save incorrectly answered questions for study purposes.
 
